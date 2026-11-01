@@ -53,7 +53,3 @@ contains
 
 end module iteractive_methods
 
-
-! Run in the CMD: 
-! gfortran -Wall -Wextra -fcheck=all -g slae02_LU_factorization.f90 slae05_iterative_improvement.f90 -o slae05_iterative_improvement
-
